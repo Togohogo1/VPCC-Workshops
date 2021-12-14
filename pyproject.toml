@@ -8,6 +8,7 @@ authors = ["Kevin Wang <59260907+Togohogo1@users.noreply.github.com>"]
 python = "^3.9"
 pynput = "^1.7.5"
 selenium = "^4.1.0"
+bs4 = "^0.0.1"
 
 [tool.poetry.dev-dependencies]
 
